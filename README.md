@@ -1,6 +1,6 @@
  👋 Hi, I’m Kushal Ghosh
  
  
-A passionate Front end developer from Bangladesh
+A computer science & engineering student from bangladesh.
 
 
