@@ -1,6 +1,6 @@
  👋 Hi, I’m Kushal Ghosh
  
  
-A computer science & engineering student from bangladesh.
+I am a computer science and engineering student from Bangladesh.
 
 
